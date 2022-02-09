@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muhammad-usman11
-I’m interested in Web and App development. 
+I’m interested in Web development. 
 I’m currently learning development. 
 
 

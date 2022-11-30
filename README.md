@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Muhammad-usman11
-I’m interested in Web development. 
-I’m currently learning development. 
+Muhammad Usman is here. I'm Web Developer and working on many technologies.   
 
 
 <!---
